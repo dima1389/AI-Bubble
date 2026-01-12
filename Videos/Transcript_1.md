@@ -4,9 +4,13 @@
 
 We are often told that the economy of the United States is so strong and that growth rates in the US are so much higher than in other major economies. But if you look beneath the surface in the US economy, what you can see are many deep structural problems that are getting worse over time, not better.
 
+![The US economy depends more than ever on rich people](../Pictures/1.1.png "The US economy depends more than ever on rich people")
+
 And what you really have in the US more and more is a bifurcated economy, a divided economy. You have the economy of the rich, which is financialized and dominated by big tech corporations, and it’s booming and looks like things are very healthy, but only a small percentage of elites benefit from that growth.
 
 The vast majority of the population is not seeing economic growth. The real economy is stagnating for the majority of the population.
+
+![The US economy depends more than ever on rich people](../Pictures/1.2.png "The US economy depends more than ever on rich people")
 
 The Wall Street Journal published an important article that provided a glimpse into this titled, “The US economy depends more than ever on rich people.” It noted that the richest 10% of the American population now represents roughly half of all spending, 49.7% of all spending in the economy, which is a massive increase over the past three decades.
 
@@ -14,9 +18,13 @@ Thirty years ago, the richest 10% made up 36% of all spending. Now it’s nearly
 
 ## Many US states already in recession
 
+![The US economy depends more than ever on rich people](../Pictures/1.3.png "The US economy depends more than ever on rich people")
+
 And this is why so many working-class Americans feel like they’re in a recession, because in their own local economies, in the real economy, they are in recession.
 
 But the problem with GDP figures for a country is that they’re aggregate figures. They take GDP growth across the entire country. So for the United States, it looks like the US economy is growing because GDP is taken for all 50 states in the US, including states whose economies are dominated by rich elites.
+
+![The US economy depends more than ever on rich people](../Pictures/1.4.png "The US economy depends more than ever on rich people")
 
 But even the Financial Times published an article acknowledging that the way a recession is measured in the US has problems. Now, a recession is officially declared when there are two consecutive fiscal quarters of negative GDP growth. But because that’s an aggregate figure, it can obscure the fact that a recession is actually happening in many parts of the country.
 
@@ -30,6 +38,8 @@ And that economy for the rich that seems to be booming depends almost entirely o
 
 Both of these bubbles are linked together, but I’m going to start by looking at the massive stock market bubble in the US. If you look at something called the Buffett indicator, named after the billionaire investor Warren Buffett, this analyzes the market capitalization of all publicly traded stocks in the US and compares it to GDP, the size of the entire economy.
 
+![The US economy depends more than ever on rich people](../Pictures/1.5.png "The US economy depends more than ever on rich people")
+
 You can see that as of October 2025, it is now more than 219% of GDP. That is, the market capitalization, the market value of all of the stocks of publicly traded companies in the US combined, is more than two times greater than the size of the entire economy.
 
 There has never been a moment in US history, for which we have data, when the bubble in the stock market has been this big. If you look back at the peak of the bubble in 2007, before it crashed in the 2008 and 2009 financial crisis, the Buffett indicator was “only” 105% of GDP.
@@ -40,20 +50,44 @@ And yet this bubble keeps inflating and becoming bigger and bigger. Every few mo
 
 ## 90% of stocks owned by 10% richest Americans
 
+![Share of Corporate Equities and Mutual Fund Shares Held by the Top 1% (99th to 100th Wealth Percentiles)](../Pictures/1.6.png "Share of Corporate Equities and Mutual Fund Shares Held by the Top 1% (99th to 100th Wealth Percentiles)")
+
+[Share of Corporate Equities and Mutual Fund Shares Held by the Top 1% (99th to 100th Wealth Percentiles)](https://fred.stlouisfed.org/series/WFRBST01122)
+
 In fact, the richest 1% of Americans own 50% of all stocks in the US. And then when you add in the following richest 9% plus the 1% richest Americans together, the top 10 richest Americans hold over 87% of all stocks in the US. Nearly 90%. That figure has fluctuated around 90% for several years. Meanwhile, the bottom half of Americans, the poorest half of the country, only hold 1% of all stocks.
+
+![Share of Corporate Equities and Mutual Fund Shares Held by the 90th to 99th Wealth Percentiles](../Pictures/1.7.png "Share of Corporate Equities and Mutual Fund Shares Held by the 90th to 99th Wealth Percentiles")
+
+[Share of Corporate Equities and Mutual Fund Shares Held by the 90th to 99th Wealth Percentiles](https://fred.stlouisfed.org/series/WFRBSN09149)
 
 1% for the bottom half of the country, whereas nearly 90% are held by the richest 10%. This is exactly why the Wall Street Journal reported that the US economy depends more than ever on rich people. This is why the richest 10% of Americans make up 50% of spending and one third of GDP because they have gotten very very rich as these massive bubbles have been inflated in the stock market. But the majority of the population has not benefited.
 
-Meanwhile, if you read the financial press today, there are more and more articles that admit that the US economy is seeing large bubbles in the stock market and in the AI industry. But as the Financial Times put it in an article in August 2025, they're advising people on quote how to invest in a stock market bubble. End quote.
+![Share of Corporate Equities and Mutual Fund Shares Held by the Bottom 50% (1st to 50th Wealth Percentiles)](../Pictures/1.8.png "Share of Corporate Equities and Mutual Fund Shares Held by the Bottom 50% (1st to 50th Wealth Percentiles)")
+
+[Share of Corporate Equities and Mutual Fund Shares Held by the Bottom 50% (1st to 50th Wealth Percentiles)](https://fred.stlouisfed.org/series/WFRBSB50203)
+
+![Wealthy Americans Fuel Half of US Economy Consumer Spending](../Pictures/1.9.png "Wealthy Americans Fuel Half of US Economy Consumer Spending")
+
+Meanwhile, if you read the financial press today, there are more and more articles that admit that the US economy is seeing large bubbles in the stock market and in the AI industry. But as the Financial Times put it in an article in August 2025, they're advising people on "How to invest in a stock market bubble".
+
+![How to invest in a stock market bubble](../Pictures/1.10.png "How to invest in a stock market bubble")
 
 Now, given how much the US economy depends on continuing to inflate this bubble in the stock market, what is especially concerning is how extremely concentrated this market is.
 
 ## Magnificent Seven (Mag7) Big Tech stocks
 
+![Magnificent Seven (Mag7) Big Tech stocks](../Pictures/1.11.png "Magnificent Seven (Mag7) Big Tech stocks")
+
+![Magnificent Seven (Mag7) Big Tech stocks](../Pictures/1.12.png "Magnificent Seven (Mag7) Big Tech stocks")
+
 A small handful of corporations of big tech corporations are driving the vast majority of growth in the US stock market.
 These big tech corporations have been referred to as the Magnificent 7 or the MAG 7. And in the first half of 2024, they grew by 31%. Whereas the rest of the S&P 500, the main US stock market index of the 500 largest publicly traded companies, was basically stagnant over the same time period. An analysis by a professor of finance at New York University named Aswath Demodaran found that the magnificent seven big tech monopolies make up 30.35% of the entire market capitalization of all of the publicly traded companies in the entire United States. That is 5,786 publicly traded companies.
 
+![S&P 500 vs. S&P 493 vs. Mag Seven vs. Mag Trio](../Pictures/1.13.png "S&P 500 vs. S&P 493 vs. Mag Seven vs. Mag Trio")
+
 And yet just seven of those companies, representing 0.12% of the total number of companies, represented 30.35% of the entire market cap as of the end of September 2025. And what's even crazier is that the Magnificent 7 made up over half, that is 52.37%, of the growth in the market cap of the entire US stock market in the first 9 months of 2025. This is absolutely crazy. It is an unprecedented degree of concentration and it is also extremely risky.
+
+![Aswath Demodaran - Professor of finance at New York University](../Pictures/1.14.png "Aswath Demodaran - Professor of finance at New York University")
 
 ## Ten Titans Big Tech stocks
 
