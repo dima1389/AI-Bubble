@@ -8,7 +8,11 @@ Yet, most of the US big tech corporations developing AI are not actually making 
 
 And Nvidia's founder and CEO, Jensen Huang, has become a celebrity who's constantly celebrated in the financial press and portrayed as this great visionary, with memes even saying, not so jokingly, that Nvidia is holding up the entire US economy or the global economy on its shoulders. This is how Nvidia became the most valuable company on Earth. It was the first ever company to have a market capitalization of more than $4 trillion.
 
+![](../Pictures/2.1.png "todo")
+
 But as I'll show today, Nvidia's stock has been very volatile, and there have been crazy swings of hundreds of billions of dollars, with a B, hundreds of billions of dollars in rises and falls in just a few hours, with this crazy mania going on in the US stock market, which demonstrates how dangerous this bubble is and how it's not actually based on fundamentals.
+
+![](../Pictures/2.2.png "todo")
 
 It's based on risky speculation and really gambling for a lot of so-called investors. They're really just gambling, thinking the number always will go up, the line must go up forever. But the problem with this is that all bubbles eventually pop. That's why they're called bubbles.
 
@@ -16,15 +20,25 @@ And Nvidia can only continue to make all of this money because other big tech co
 
 I mean, the fact that it's even a bubble is not controversial. Even the CEO of OpenAI, the leading US AI company, Sam Altman, has admitted that AI is in a bubble.
 
+![](../Pictures/2.3.png "todo")
+
 ## Magnificent Seven (Mag7) Big Tech stocks
 
 So much of the US economy depends on capital expenditure by just seven big tech corporations known as the Magnificent 7, or the Mag 7. These are Amazon, Apple, Google or Alphabet, Meta, which owns Facebook, Microsoft, Nvidia, and Tesla.
+
+![](../Pictures/2.4.png "todo")
 
 Together, these seven companies have a larger market capitalization than the entire stock market in all of Europe or in China, which has 1.4 billion people and is the largest economy in the world when you measure China’s GDP at purchasing power parity.
 
 In fact, as of the 17th of November 2025, the Magnificent Seven big tech corporations made up more than one third of the S&P 500. That is the main US stock market index, which includes the 500 largest publicly listed companies. Thirty-five percent of the S&P 500 is made up by just the Mag 7, and that figure has been growing in the past few years as this insane bubble has been inflating.
 
+![](../Pictures/2.5.png "todo")
+
 Now, when people post memes on social media saying that the entire US economy depends on this AI bubble continuing to inflate and on companies like Nvidia, it is basically the truth.
+
+![](../Pictures/2.6.png "todo")
+
+![](../Pictures/2.7.png "todo")
 
 ## US GDP growth depends on AI capex
 
@@ -38,7 +52,11 @@ This is why the AI bubble is such an important issue. Because were it not for th
 
 Which means that we see more and more crazy things happening, like a circular financing scheme in which big tech companies are all investing in each other to make it look like everyone is making money. But in reality, the same money is just circulating, going through these different companies, giving IOUs, promising that in the future they will pay the other company, but they have not done so yet.
 
+![](../Pictures/2.8.png "todo")
+
 The best example of this is OpenAI. OpenAI is not making money. It is actually losing a lot of money. Basically, Nvidia is the only major company that is actually making money on AI. Of course, big tech companies like Microsoft and Google are making a lot of money from other services and products, but not from their actual AI research and their large language models.
+
+![](../Pictures/2.9.png "todo")
 
 So what is happening is that Nvidia is making all of this money from these big tech companies that are buying chips from Nvidia. Nvidia is then using some of that money, first of all, to buy back its own shares to continue inflating the bubble. And Nvidia is also investing in other companies like OpenAI, which is one of its main customers.
 
@@ -50,6 +68,8 @@ Again, the case study of this is OpenAI. Now, OpenAI is not a publicly listed co
 
 So Microsoft has revealed that in just one quarter, OpenAI lost $12 billion. However, while OpenAI is hemorrhaging money and is very far from being profitable, it owes $1.4 trillion in commitments it has made to other companies for chips from Nvidia and for data centers, which are being built out by companies like Oracle.
 
+![](../Pictures/2.10.png "todo")
+
 OpenAI does not actually have the money it needs to pay these other companies. Sam Altman, the CEO, claims that in a few years OpenAI will magically become profitable. But a lot of people are looking at the data and saying, “These numbers don’t add up, and eventually this scheme will fall apart and the bubble will burst.”
 
 ## Nvidia profits rise in earnings report
@@ -60,9 +80,15 @@ That’s because Nvidia is selling the shovels in the new digital gold rush to t
 
 And this is why, on the 19th of November, Nvidia released its earnings report for the third fiscal quarter. And it looked like it was a great report, at least superficially. Financial media outlets like the Wall Street Journal announced that Nvidia’s profits were soaring, soothing investor jitters over the AI boom, or the AI bubble more specifically.
 
+![](../Pictures/2.11.png "todo")
+
 In fact, when he announced this new earnings report, Nvidia CEO Jensen Huang criticized people who say that AI is in a big speculative bubble, and he said, “We see something very different,” essentially arguing that it’s not actually a bubble.
 
+![](../Pictures/2.12.png "todo")
+
 Here’s how Fortune magazine reported it. They said, “Jensen Huang pours cold water on an AI bubble and says Nvidia is unlike any other accelerator in the boom.” And yeah, maybe it is unlike any other accelerator, but that’s pretty easy to say when all of the other companies are losing money and you’re one of the very few that’s actually making money. Then it can seem like things are much rosier than they actually are, at least on the surface.
+
+![](../Pictures/2.13.png "todo")
 
 ## US investor madness
 
@@ -70,7 +96,11 @@ And this apparently super strong Nvidia earnings report led to some really crazy
 
 This is not satire. I saw a lot of people joking about this on Twitter. I at first thought it was a joke, but no. This is a serious investor in the US, a finance industry professional, claiming that she has all the data and she can confidently show that by 2030, in just five years, Nvidia’s market cap will quintuple. It is currently $4 trillion, which is already insane. It is the most valuable company on Earth. She’s claiming that it will quintuple in five years to $20 trillion.
 
+![](../Pictures/2.14.png "todo")
+
 Now for context here, the IMF projects that the GDP of the United States will be $36.8 trillion in 2030. That is the value of all of the goods and services produced in the entire US economy with more than 340 million people, while some US financial analysts are claiming that Nvidia’s market cap will be $20 trillion at the same time.
+
+![](../Pictures/2.15.png "todo")
 
 Now, I will add a quick note here acknowledging that some economists don’t like to compare GDP to the market cap of companies because they point out correctly that GDP is a flow. It’s not like the US has $37 trillion just sitting around that it’s going to use. GDP is a flow of goods and services over a period of time, whereas market capitalization, or wealth, is a stock. And the economist Michal Kalecki famously joked that economics is the science of confusing stocks with flows.
 
@@ -84,15 +114,21 @@ And I have to add another detail here from a geopolitical perspective, and I thi
 
 Because in the US there are companies already challenging Nvidia, like Google. And especially in China, the government has prioritized challenging US dominance in cutting-edge chips. And in China, it’s not just one company that’s challenging Nvidia.
 
+![](../Pictures/2.16.png "todo")
+
 Some people might know that Huawei, the major tech giant, is also developing cutting-edge chips and challenging Nvidia. But there are many other companies, Alibaba, Baidu, and a bunch of others that you’ve never heard of. They’re working in China right now as we speak to develop their own cutting-edge chips, GPUs for AI models, to take market share away from Nvidia.
 
 So it’s completely absurd, this idea that Nvidia will always have a moat, will always have this monopolistic control, that the number will always go up, the line will always go up, and it will continue growing and becoming more and more valuable and eventually hit $20 trillion in market cap. It’s just completely insane. If you look rationally at what’s actually happening, if you ignore all of the buzz and the mania, it’s completely crazy.
+
+![](../Pictures/2.17.png "todo")
 
 ## Crazy volatility in Nvidia stock
 
 And this is why we see these absolutely crazy movements in the US stock market, especially when looking at Nvidia’s stock. This is why Nvidia has been breaking records with massive rises and then even bigger falls.
 
 So right after Nvidia announced its earnings report for the third fiscal quarter, in just a few hours its market cap shot up by $450 billion. And then several hours later, over a period of just one day, its market cap fell by $600 billion.
+
+![](../Pictures/2.18.png "todo")
 
 We’re talking about such insane amounts of money that it just blows your mind. A $600 billion fall in market cap in one day. This is why the very popular financial newsletter, the Kobeissi Letter, referred to this as absolute insanity.
 
@@ -106,6 +142,8 @@ And it’s very instructive to compare what Nvidia is saying publicly to what it
 
 But in private, Jensen Huang is actually much more sober about the situation. And we know this because the financial press leaked an audio recording of an internal meeting inside Nvidia in which the CEO acknowledged that most people have concluded that this is a bubble. He complained that Nvidia is in a no-win situation, a lose-lose situation, because people are getting really afraid about what’s happening with these crazy movements in the stock market.
 
+![](../Pictures/2.19.png "todo")
+
 Huang said, quote, “If we delivered a bad quarter, it is evidence there’s an AI bubble. If we delivered a great quarter, we are fueling the AI bubble.” End quote. And, to be fair to him, he’s actually right.
 
 And it’s not just Nvidia’s fault that there’s this massive bubble. But it is in Nvidia’s economic interest to continue inflating that bubble and to pretend like there is no bubble, like nothing’s happening, which is very risky and very dangerous. And that’s what they’re doing to benefit their own bottom line, which is doing damage to the rest of the economy and the world, which is very irresponsible.
@@ -113,6 +151,8 @@ And it’s not just Nvidia’s fault that there’s this massive bubble. But it 
 So again, it’s not just Nvidia’s fault that there’s this big bubble, but we shouldn’t pretend like they’re some innocent victim in all of this. And if for some reason you’re sympathetic to Jensen Huang, when you read about other comments that he made, you should not be sympathetic.
 
 Because in this audio recording, this leaked recording of the internal meeting at Nvidia, Huang not so jokingly referenced the memes that said that Nvidia is holding up the planet. And this is what he said. Quote, “We’re basically holding the planet together and it’s not untrue.” End quote. So he’s saying they are holding up the planet.
+
+![](../Pictures/2.20.png "todo")
 
 ## $600 billion drop in one day
 
@@ -124,11 +164,15 @@ But the point that I’m trying to emphasize here is that we’re not just talki
 
 Previously, Nvidia’s market cap fell by $500 billion in a few weeks. Now the speculation and mania are so crazy that it fell by $600 billion in one day.
 
+![](../Pictures/2.18.png "todo")
+
 ## Four customers make up 61% of Nvidia revenue
 
 And when you look closer at the data, it makes sense why investors are getting scared about Nvidia and this bubble. Because I mentioned that Nvidia had this great earnings report and the financial press celebrated it for having great earnings and everything looked like it was great. But then financial analysts pointed out there were some serious issues.
 
 First of all, there’s the fact that just four customers make up 61% of Nvidia’s revenue. Now, those customers were left anonymous. We don’t know exactly who they are, but customer A makes up 22% of Nvidia’s revenue, nearly one quarter. Customer B makes up 15%, customer C 13%, and customer D 11%. Together, four customers represent 61% of Nvidia’s revenue in the third quarter of the fiscal year 2025–2026.
+
+![](../Pictures/2.21.png "todo")
 
 Again, those customers were not named, but we basically know who they are. They are big tech corporations in Silicon Valley like Meta, like Google or its parent company Alphabet, like OpenAI, like potentially xAI or Tesla, Elon Musk’s companies, or other potential candidates like Oracle. These hyperscalers, these companies that are building out the big data centers, these enormous AI data centers, are spending billions of dollars per quarter, tens of billions of dollars per year, buying chips from Nvidia.
 
@@ -150,6 +194,8 @@ So as the accounts receivable line item on Nvidia’s balance sheet continues to
 
 And then a third red flag that financial analysts pointed out was another line item on Nvidia’s earnings report, which was inventories. This refers to all of the products that Nvidia has that have not yet been sold.
 
+![](../Pictures/2.22.png "todo")
+
 So we’re constantly told that there’s so much demand for Nvidia’s chips and companies are just going to buy more and more GPUs to build AI data centers and develop AI. And yet Nvidia’s inventory is skyrocketing. It’s now $20 billion as of the third quarter of fiscal year 2025–2026.
 
 So this raises another question. If there truly is insatiable demand for Nvidia’s chips coming from these AI companies, why do the inventories keep rising so much? Especially in 2025, the inventories have tripled in one year.
@@ -162,7 +208,11 @@ But then the next day, as financial analysts, bears, and skeptics pointed out so
 
 And at the same time, investors started selling off other stocks, especially big tech stocks. And the market cap of the S&P 500 fell by $2 trillion in five hours as fear began to spread across the market.
 
+![](../Pictures/2.23.png "todo")
+
 We saw Oracle stock fall by 44% from its record high, Palantir stock fall by 30%, Meta’s by 27%, AMD’s by 27%, and Tesla’s by 22%.
+
+![](../Pictures/2.24.png "todo")
 
 Now, yes, it is true that some people bought the dip and the S&P did recover after falling a bit. But still, this was the most significant reversal in the US stock market since Trump’s so-called liberation day in April, when he announced tariffs on countries all around the world, which also caused fear and a crazy sell-off in the US stock market.
 
