@@ -28,7 +28,7 @@ But the problem with GDP figures for a country is that they’re aggregate figur
 
 But even the Financial Times published an article acknowledging that the way a recession is measured in the US has problems. Now, a recession is officially declared when there are two consecutive fiscal quarters of negative GDP growth. But because that’s an aggregate figure, it can obscure the fact that a recession is actually happening in many parts of the country.
 
-The Financial Times reported that, quote, “US states making up close to one third of the country’s GDP are either in or at high risk of recession.” End quote. And it noted this is especially the case for the Midwest and parts of the Rust Belt that have been de-industrialized as the US economy has financialized in recent decades.
+The Financial Times reported that “US states making up close to one third of the country’s GDP are either in or at high risk of recession.” And it noted this is especially the case for the Midwest and parts of the Rust Belt that have been de-industrialized as the US economy has financialized in recent decades.
 
 But the people living in those states are forgotten because a few states like California, Texas, and New York do have their local economy growing, largely because of these big bubbles that I’ll be talking about today. So what’s increasingly clear is that in the US there is one economy for the rich and there is another economy for everyone else.
 
@@ -105,7 +105,7 @@ And a big reason for this is that many of these big tech corporations have been 
 
 ![1.17](../Pictures/1.17.png "Sam Altman sees AI bubble")
 
-But there's a problem. The reality is that AI is in a huge bubble. And don't just take my word for it. One of the most powerful corporate executives in the US AI industry, Sam Altzman, the CEO of Open AI, has come out publicly and admitted that AI is in a bubble. This is the head of the most influential AI company. Open AI runs ChatGPT and its CEO is saying that AI is in a big bubble.
+But there's a problem. The reality is that AI is in a huge bubble. And don't just take my word for it. One of the most powerful corporate executives in the US AI industry, Sam Altman, the CEO of Open AI, has come out publicly and admitted that AI is in a bubble. This is the head of the most influential AI company. Open AI runs ChatGPT and its CEO is saying that AI is in a big bubble.
 
 This was also admitted by Jeff Bezos, the founder of Amazon, one of the richest billionaires on Earth. He was asked at a tech conference if he thought that AI is in a bubble. And he said yes, but he argued it's a good bubble because he claimed that supposedly AI is an industrial bubble as opposed to a financial bubble. I strongly disagree with that. As I will show today, it is not an industrial bubble. It is a financial bubble.
 
